@@ -12,3 +12,5 @@ Additionally, it tests closed‑loop captures where a king returns to its origin
 
 Below is an image of the graphical interface and an example of the output it produces.  
 Currently the program is available only in Spanish; an English version is planned for the future.
+
+Once BB‑Zero’s training is complete, this tool will be released for free so Spanish Checkers programmers can use it as a verification and analysis resource.
