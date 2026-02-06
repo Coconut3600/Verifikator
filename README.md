@@ -2,7 +2,7 @@
 ## SPANISH CHECKERS GAME VERIFIER — PROGRAM OVERVIEW
 ## VERIFICADOR DE PARTIDAS DE DAMAS ESPAÑOLAS — DESCRIPCIÓN GENERAL
 
-This program verifies the legality of Spanish Checkers (Damas Españolas) games.
+This program verifies the legality of Spanish Checkers games.
 It can analyze large collections of matches taken from databases or from engines such as Profound, Triturator, Aurora, and others.
 You can paste full game records into the tool, and it checks whether every move follows the official rules.
 
