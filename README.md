@@ -17,6 +17,8 @@ Currently the program is available only in Spanish; an English version is planne
 Once BB‑Zero’s training is complete, this tool will be released for free so Spanish Checkers programmers can use it as a verification and analysis resource.
 
 
+## SPANISH TRANSLATION
+
 Este programa verifica la legalidad de partidas de Damas Españolas.
 Puede analizar grandes colecciones de partidas tomadas de bases de datos o de motores como Profound, Triturator, Aurora y otros.
 Puedes pegar partidas completas en la herramienta, y revisa que cada movimiento siga las reglas oficiales.
