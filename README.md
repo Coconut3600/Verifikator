@@ -19,7 +19,7 @@ Once BB‑Zero’s training is complete, this tool will be released for free so 
 
 ![Verifikator GUI](verifikator.jpg)
 
-![Verifikator Output](Verifikator2.jpg)
+
 
 
 
