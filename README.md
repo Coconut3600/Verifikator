@@ -34,6 +34,8 @@ Actualmente el programa está disponible solo en español; una versión en ingl�
 Una vez que el entrenamiento de BB‑Zero esté completo, esta herramienta será publicada gratuitamente para que los programadores de Damas Españolas puedan usarla como recurso de verificación y análisis.
 
 
+## Verifikator GUI
+![Verifikator GUI](verifikator3.jpg)
 
 
 
